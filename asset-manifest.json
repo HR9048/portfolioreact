@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolioreact/static/css/main.e6c13ad2.css",
+    "main.js": "/portfolioreact/static/js/main.4798c9a7.js",
+    "static/js/787.df06223f.chunk.js": "/portfolioreact/static/js/787.df06223f.chunk.js",
+    "static/media/harish resume.pdf": "/portfolioreact/static/media/harish resume.9aef754d444599b3d99e.pdf",
+    "static/media/my photo.jpg": "/portfolioreact/static/media/my photo.9d808e6426fe53003aed.jpg",
+    "index.html": "/portfolioreact/index.html",
+    "main.e6c13ad2.css.map": "/portfolioreact/static/css/main.e6c13ad2.css.map",
+    "main.4798c9a7.js.map": "/portfolioreact/static/js/main.4798c9a7.js.map",
+    "787.df06223f.chunk.js.map": "/portfolioreact/static/js/787.df06223f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4798c9a7.js"
+  ]
+}
